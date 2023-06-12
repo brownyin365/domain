@@ -1,0 +1,5 @@
+sidev=background
+ <div className={
+                        activeMenu ? 'dark:bg-main-bg bg-main-bg min-h-screen md:ml-72 w-full'
+                        : 'dark:bg-main-bg bg-main-bg min-h-screen w-full flex-2'
+                    }>
